@@ -18,6 +18,7 @@ nav a {
 	color: BLACK;
 	margin-right: 20px;
 }
+nav a:hover {color: Blu;}
 
 	.prodotto {background-color: white;
 	padding: 20px;
@@ -28,4 +29,9 @@ nav a {
 	.prodotto img {
 	max-width: 200px;
 	height: auto;}
+
+	body {max-width: 1100px;
+	margin: 0 auto;
+	padding: 20px;}
+
 
