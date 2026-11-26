@@ -5,7 +5,7 @@ body {
 }
  
 h1 {
-	color: #FFA500;
+	color: #174a7e;
 	text-align: center;
 }
  
@@ -15,7 +15,7 @@ nav {
 }
  
 nav a {
-	color: gray;
+	color: BLACK;
 	margin-right: 20px;
 }
 
