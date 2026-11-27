@@ -1,6 +1,6 @@
 body {
 	background-color: #f5f5f5;
-	font-family: Comic Sans MS, sans-serif;
+	font-family: Comic Sans MS;
 	color: black;
 }
  
@@ -10,7 +10,7 @@ h1 {
 }
  
 nav {
-	background-color: #80080;
+	background-color: #800080;
 	padding: 15px;
 }
  
